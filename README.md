@@ -11,7 +11,7 @@ Artemis Financial is a consulting company that develops individualized financial
 
 **What did you do well when you found your client's software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?**
 
-I successfully identified the lack of secure communication protocols (HTTPS) and outdated dependencies. Coding securely is critical—especially in the financial sector—because it protects sensitive user data from being intercepted or manipulated. Implementing strong security adds immense value to a company by preserving its reputation, maintaining client trust, and ensuring compliance with financial data regulations, ultimately preventing catastrophic financial losses from breaches.
+I successfully identified the lack of secure communication protocols (HTTPS) and outdated dependencies. Coding securely is critical especially in the financial sector because it protects sensitive user data from being intercepted or manipulated. Implementing strong security adds immense value to a company by preserving its reputation, maintaining client trust, and ensuring compliance with financial data regulations, ultimately preventing catastrophic financial losses from breaches.
 
 **Which part of the vulnerability assessment was challenging or helpful to you?**
 
